@@ -1,0 +1,14 @@
+/home/jaayonl/Escritorio/auth/webApi/bin/Debug/netcoreapp2.2/webApi.deps.json
+/home/jaayonl/Escritorio/auth/webApi/bin/Debug/netcoreapp2.2/webApi.runtimeconfig.json
+/home/jaayonl/Escritorio/auth/webApi/bin/Debug/netcoreapp2.2/webApi.runtimeconfig.dev.json
+/home/jaayonl/Escritorio/auth/webApi/bin/Debug/netcoreapp2.2/webApi.dll
+/home/jaayonl/Escritorio/auth/webApi/bin/Debug/netcoreapp2.2/webApi.pdb
+/home/jaayonl/Escritorio/auth/webApi/obj/Debug/netcoreapp2.2/webApi.csprojAssemblyReference.cache
+/home/jaayonl/Escritorio/auth/webApi/obj/Debug/netcoreapp2.2/webApi.csproj.CoreCompileInputs.cache
+/home/jaayonl/Escritorio/auth/webApi/obj/Debug/netcoreapp2.2/webApi.RazorAssemblyInfo.cache
+/home/jaayonl/Escritorio/auth/webApi/obj/Debug/netcoreapp2.2/webApi.RazorAssemblyInfo.cs
+/home/jaayonl/Escritorio/auth/webApi/obj/Debug/netcoreapp2.2/webApi.AssemblyInfoInputs.cache
+/home/jaayonl/Escritorio/auth/webApi/obj/Debug/netcoreapp2.2/webApi.AssemblyInfo.cs
+/home/jaayonl/Escritorio/auth/webApi/obj/Debug/netcoreapp2.2/webApi.RazorTargetAssemblyInfo.cache
+/home/jaayonl/Escritorio/auth/webApi/obj/Debug/netcoreapp2.2/webApi.dll
+/home/jaayonl/Escritorio/auth/webApi/obj/Debug/netcoreapp2.2/webApi.pdb
